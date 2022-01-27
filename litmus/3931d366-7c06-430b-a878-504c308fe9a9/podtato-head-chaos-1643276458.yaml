@@ -33,9 +33,6 @@ spec:
     - - arguments: {}
         name: pod-delete
         template: pod-delete
-    - - arguments: {}
-        name: revert-chaos
-        template: revert-chaos
       - arguments: {}
         name: delete-application
         template: delete-application
