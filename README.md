@@ -1,1 +1,1 @@
-# litmus-gitops-civo
+# litmus-gitops
